@@ -68,6 +68,8 @@ input.onkeypress = (e) => {
           }
         } else {
           document.getElementById("content").innerHTML = "No Definitions Found";
+          divContent.classList.add("hidden");
+          divContent.classList.remove("flex");
         }
       });
   }
