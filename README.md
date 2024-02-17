@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, Dear</h1>
-<h3 align="center">In this project, you can search for a word and study about that word </h3>
+<h3 align="center">In this project, you can search for a word and study about that word And you can listen to its pronunciation ...</h3>
 
 ## API used:
 https://dictionaryapi.dev/
